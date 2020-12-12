@@ -1,5 +1,5 @@
 # Digital Library Management System
-* A Library Management System Using Pyhton Which Allows To Perform All Basic Library Operations Easily. There Is Admin Panel Which Allows To See All Lended Books With Details.
+* A Library Management System Which Is Created Using Pyhton Which Allows To Perform All Basic Library Operations Easily. There Is Admin Panel Which Allows To See All Lended Books With Details.
 
 ## How To Use?
 
